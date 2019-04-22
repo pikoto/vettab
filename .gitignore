@@ -9,3 +9,7 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+config/database.php
+.env.example
+config/database.1.php
+config/database.php
